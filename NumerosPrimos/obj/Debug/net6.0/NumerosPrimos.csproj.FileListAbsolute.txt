@@ -1,0 +1,15 @@
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\NumerosPrimos.exe
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\NumerosPrimos.deps.json
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\NumerosPrimos.runtimeconfig.json
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\NumerosPrimos.dll
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\ref\NumerosPrimos.dll
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0\NumerosPrimos.pdb
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.dll
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\ref\NumerosPrimos.dll
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.pdb
+C:\Users\kyz\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0\NumerosPrimos.genruntimeconfig.cache
